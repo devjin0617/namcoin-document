@@ -1,0 +1,1 @@
+# namcoin-document
