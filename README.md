@@ -1,4 +1,4 @@
-남코인(NAM Coin) 프로젝트
+# 남코인(NAM Coin) 프로젝트
 
 
 - 웹사이트 : www.namcoin.co.kr
