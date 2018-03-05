@@ -5,7 +5,7 @@
 - 백서 : https://docs.wixstatic.com/ugd/efddb4_2cd2ee99a1ee43018b8ddc7bcf8cc312.pdf
 - 페이스북 : https://www.facebook.com/namvation/
 - 트위터 : https://twitter.com/inc_nam
-- 카카오톡 : https://open.kakao.com/o/gCpbnZH
+- 카카오톡(공식톡방) : https://open.kakao.com/o/gCpbnZH
 
 
 -일본 경제산업성이 채택하였고 웨이보, 지자체, 대형병원과 협력중인 사업성이 큰 프로젝트.
@@ -22,21 +22,11 @@ ICO 가격 : 1NAM = 0.00000833 ETH
 기술기반 : Ethereum 
 ICO 소프트캡 : 100억 NAM
 ICO 하드캡 : 600억 NAM 
-보너스 : 
-1,000만 NAM이상 (83.3 ETH)
- - 20%
-500만 NAM이상 (41.65 ETH)
- - 15%
-300만 NAM이상 (24.99 ETH)
- - 10% 
-100만 NAM이상 (8.33 ETH)
- - 3%
 웹사이트 : www.namcoin.co.kr
 백서 : 
 https://docs.wixstatic.com/ugd/efddb4_2cd2ee99a1ee43018b8ddc7bcf8cc312.pdf
 페이스북 : https://www.facebook.com/namvation/
 트위터 : https://twitter.com/inc_nam
-카카오톡 : https://open.kakao.com/o/gCpbnZH
 
 
 남코인 카드뉴스 :
