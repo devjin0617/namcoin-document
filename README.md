@@ -1,5 +1,6 @@
 # 남코인(NAM Coin) 프로젝트
 
+- 커뮤니티 톡방: https://open.kakao.com/o/gZuNPDI
 
 - 웹사이트 : www.namcoin.co.kr
 - 백서 : https://docs.wixstatic.com/ugd/efddb4_2cd2ee99a1ee43018b8ddc7bcf8cc312.pdf
